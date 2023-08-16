@@ -1,0 +1,336 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Diego",
+      "surnames": "Rodríguez Martín",
+      "title": "Digital Product Designer",
+      "description": "I am a digital product designer with experience in working as a team to create profitable, honest, and effective solutions. My interest in design is based on its ability to have a positive impact on both people's experience and business objectives.\n\nSince my early days as a designer, I have always sought to create clear, coherent, and solid products. For me, business, technology, and design must go hand in hand, never losing sight of the fact that the ultimate goal is to improve people's experience by adding value to the product.\n\nWhen I am involved in projects, I put special emphasis on working closely with my frontend and backend colleagues to achieve the best possible result within the set deadline. I am committed to continuous learning and am always looking for new challenges in which I can work as a team and contribute my skills and knowledge.",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/25/47f78bcb-928b-4909-b707-2fe3fd46ae97_diegobw-square.jpg",
+        "alt": "diegoBW-square.jpg"
+      },
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJuYlLZidOTg0RRaaVHsSsNGU)",
+        "country": "España",
+        "region": "País Vasco",
+        "municipality": "Bilbao"
+      }
+    }
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Alliance Healthcare (cencora)"
+        },
+        "roles": [
+          {
+            "name": "Product Designer",
+            "startDate": "2023-02-01",
+            "challenges": [
+              {
+                "description": "Trabajando en un B2B del área eHealth que gestiona almacenes automatizados y el envío de productos a farmacias"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Packlink (Auctane group)"
+        },
+        "roles": [
+          {
+            "name": "Product Designer",
+            "startDate": "2021-02-01",
+            "finishDate": "2022-11-01",
+            "challenges": [
+              {
+                "description": "Trabajando con metodologías agile en distintas areas de producto (integraciones, conversión, onboarding...)"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Mediktiv"
+        },
+        "roles": [
+          {
+            "name": "Product Designer",
+            "startDate": "2020-04-01",
+            "finishDate": "2021-02-01",
+            "challenges": [
+              {
+                "description": "Crear un producto desde cero con el objetivo de dar servicios de atención primaria en países en vías de desarrollo.\nProyectos paralelos de aprendizaje para diagnosis"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Nitsnets"
+        },
+        "roles": [
+          {
+            "name": "NITSNETS logo Lead Web Designer",
+            "startDate": "2018-04-01",
+            "finishDate": "2019-05-01",
+            "challenges": [
+              {
+                "description": "With the Front-end tech lead we create a Design System to rule them all. Something that the company could use to prepare quickly a design system for every client. With the goal of creating a bridge between visual and techology: bem, atomic design, custom components, etc."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Bitbucket",
+                "type": "technology"
+              },
+              {
+                "name": "Sass",
+                "type": "technology"
+              },
+              {
+                "name": "Sketch",
+                "type": "technology"
+              },
+              {
+                "name": "Vue",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Add Agency"
+        },
+        "roles": [
+          {
+            "name": "Web and Visual Designer",
+            "startDate": "1998-09-01",
+            "finishDate": "2020-06-01",
+            "challenges": [
+              {
+                "description": "In a small advertising agency all kind of works (webs, ecommerce, digital catalogs, brands...) mainly focused in the Industrial companies"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Adobe Creative Suite",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "EN",
+        "level": "Full professional proficiency"
+      },
+      {
+        "name": "ES",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Adobe Photoshop",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Adobe Xd",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Confluence",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Figma",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jira",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Miro",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Sketch",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Trello",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Visual Studio Code",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Advanced Service Design course for the industry",
+        "startDate": "2018-01-01",
+        "institution": {
+          "name": "Mondragon Unibertsitatea"
+        },
+        "finishDate": "2018-04-01"
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "CRO course",
+        "startDate": "2022-11-01",
+        "institution": {
+          "name": "kschool",
+          "description": "In Kschool with Ricardo Tayar a deep introduction to the CRO discipline. From analyzing, detecting ineffciencies and opportunities, measure and prepare a CRO plan",
+          "URL": "https://kschool.com/cursos/curso-cro-conversion-rate-optimization/"
+        },
+        "finishDate": "2023-02-01"
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Complex Problem Solving",
+        "startDate": "2021-10-01",
+        "institution": {
+          "name": "UNIR",
+          "description": "In the UNIR"
+        },
+        "finishDate": "2022-03-01"
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Data Driven (Oriented) Design",
+        "startDate": "2023-03-01",
+        "institution": {
+          "name": "la nave nodriza",
+          "description": "With Ana Asuero from Factorial an interesting approach to the use of metrics and data to make better decissions."
+        },
+        "finishDate": "2023-03-01"
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Design Resarch",
+        "startDate": "2021-07-01",
+        "institution": {
+          "name": "Fictizia"
+        },
+        "finishDate": "2021-07-01"
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Web layout with Html5 and CSS",
+        "startDate": "2021-05-01",
+        "institution": {
+          "name": "Fictizia"
+        },
+        "finishDate": "2021-06-01",
+        "linkedCompetences": [
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Ability to receive feedback",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Continuous learning",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Resistance to frustration",
+          "type": "practice"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://www.linkedin.com/in/arketipo/",
+          "type": "linkedin"
+        }
+      ],
+      "contactMails": [
+        "arketipo@arketipo.net"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "607304578",
+          "countryCode": "+34"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredRoles": [
+        "Product Design (UI/UX)"
+      ]
+    },
+    "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "I'm looking for a work as product designer working in a multidisciplinary team to create projects to improve people's life (in the area of e-health, employer experience, e-learning…)\n---\n\nACTUALIZACIÓN\nMi trabajo soñado es parecido al que tuve el año pasado. Trabajar en remoto, podría ser a tiempo parcial. En una empresa que cree producto y aportando otra visión. Me encantaría seguir aportando en crear puentes entre desarrollo y diseño.",
+    "goodPractices": "In my job it is key to have constant conversations with stakeholders and users, to be able to translate the needs of the company to the product and of course that it helps users in their day to day life in the most efficient, accessible and rewarding way possible.\n\nThrough conceptualisations and documenting is the best way to have a support to share that information with the technical team, of course there are live meetings but always with written information and the necessary data to complete the tasks."
+  }
+}
