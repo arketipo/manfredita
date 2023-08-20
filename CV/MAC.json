@@ -26,6 +26,22 @@
     "jobs": [
       {
         "organization": {
+          "name": "Design Eskola"
+        },
+        "roles": [
+          {
+            "name": "Freelance",
+            "startDate": "2023-08-01",
+            "challenges": [
+              {
+                "description": "Open to projects as a contractos, part-time, etc."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Alliance Healthcare (cencora)"
         },
         "roles": [
