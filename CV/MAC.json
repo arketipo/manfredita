@@ -8,18 +8,8 @@
     "profile": {
       "name": "Diego",
       "surnames": "Rodríguez Martín",
-      "title": "Digital Product Designer",
-      "description": "I am a digital product designer with experience in working as a team to create profitable, honest, and effective solutions. My interest in design is based on its ability to have a positive impact on both people's experience and business objectives.\n\nSince my early days as a designer, I have always sought to create clear, coherent, and solid products. For me, business, technology, and design must go hand in hand, never losing sight of the fact that the ultimate goal is to improve people's experience by adding value to the product.\n\nWhen I am involved in projects, I put special emphasis on working closely with my frontend and backend colleagues to achieve the best possible result within the set deadline. I am committed to continuous learning and am always looking for new challenges in which I can work as a team and contribute my skills and knowledge.",
-      "avatar": {
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/08/16/9376ef4e-644d-40d0-bdec-0a3c2fbf026f_diego-avatar-bn-squa.jpg",
-        "alt": "diego-avatar-BN-square.jpg"
-      },
-      "location": {
-        "notes": "Autocompleted using Google Maps API (id: ChIJuYlLZidOTg0RRaaVHsSsNGU)",
-        "country": "España",
-        "region": "País Vasco",
-        "municipality": "Bilbao"
-      }
+      "title": "Product Designer",
+      "description": "I am a digital product designer with experience in working as a team to create profitable, honest, and effective solutions. My interest in design is based on its ability to have a positive impact on both people's experience and business objectives.\n\nSince my early days as a designer, I have always sought to create clear, coherent, and solid products. For me, business, technology, and design must go hand in hand, never losing sight of the fact that the ultimate goal is to improve people's experience by adding value to the product.\n\nWhen I am involved in projects, I put special emphasis on working closely with my frontend and backend colleagues to achieve the best possible result within the set deadline. I am committed to continuous learning and am always looking for new challenges in which I can work as a team and contribute my skills and knowledge."
     }
   },
   "experience": {
@@ -30,11 +20,11 @@
         },
         "roles": [
           {
-            "name": "Freelance",
+            "name": "Learning & Product designer",
             "startDate": "2023-08-01",
             "challenges": [
               {
-                "description": "Personal projects and Collaborations\nAvailable as a contractor, part-time, etc."
+                "description": "TBD"
               }
             ]
           }
@@ -42,15 +32,16 @@
       },
       {
         "organization": {
-          "name": "Alliance Healthcare (cencora)"
+          "name": "Alliance Healthcare"
         },
         "roles": [
           {
             "name": "Product Designer",
             "startDate": "2023-02-01",
+            "finishDate": "2023-07-31",
             "challenges": [
               {
-                "description": "Trabajando en un B2B del área eHealth que gestiona almacenes automatizados y el envío de productos a farmacias"
+                "description": "Project - Moving from Software Factory to Product Company"
               }
             ]
           }
@@ -58,16 +49,66 @@
       },
       {
         "organization": {
-          "name": "Packlink (Auctane group)"
+          "name": "The Core Entertainment Science School"
+        },
+        "roles": [
+          {
+            "name": "Audiovisual Design trainer",
+            "startDate": "2021-12-01",
+            "challenges": [
+              {
+                "description": "Within the master's degree in post-production I am in charge of the part of \"Design applied to audiovisual projects\"."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Auctane"
         },
         "roles": [
           {
             "name": "Product Designer",
             "startDate": "2021-02-01",
-            "finishDate": "2022-11-01",
+            "finishDate": "2022-12-31",
             "challenges": [
               {
-                "description": "Trabajando con metodologías agile en distintas areas de producto (integraciones, conversión, onboarding...)"
+                "description": "Packlink (Auctane Group)\n\nWorking hand in hand with engineering and stakeholders throughout the product flow. From finding opportunities to iterating solutions to impacting the business."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Universidad de Deusto"
+        },
+        "roles": [
+          {
+            "name": "Visiting Professor",
+            "startDate": "2020-11-01",
+            "finishDate": "2020-12-01",
+            "challenges": [
+              {
+                "description": "Máster en Diseño Estratégico"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "FICTIZIA"
+        },
+        "roles": [
+          {
+            "name": "Technical Trainer",
+            "startDate": "2020-06-01",
+            "finishDate": "2020-12-31",
+            "challenges": [
+              {
+                "description": "Diseño e impartición del curso \"Diseño visual para productos digitales\""
               }
             ]
           }
@@ -81,10 +122,10 @@
           {
             "name": "Product Designer",
             "startDate": "2020-04-01",
-            "finishDate": "2021-02-01",
+            "finishDate": "2021-02-28",
             "challenges": [
               {
-                "description": "Crear un producto desde cero con el objetivo de dar servicios de atención primaria en países en vías de desarrollo.\nProyectos paralelos de aprendizaje para diagnosis"
+                "description": "Skills: Agile Methodologies · Figma · miro · Jira · Confluence"
               }
             ]
           }
@@ -92,34 +133,16 @@
       },
       {
         "organization": {
-          "name": "Nitsnets"
+          "name": "NITSNETS"
         },
         "roles": [
           {
-            "name": "NITSNETS logo Lead Web Designer",
+            "name": "Lead Web Designer",
             "startDate": "2018-04-01",
-            "finishDate": "2019-05-01",
+            "finishDate": "2019-05-31",
             "challenges": [
               {
-                "description": "With the Front-end tech lead we create a Design System to rule them all. Something that the company could use to prepare quickly a design system for every client. With the goal of creating a bridge between visual and techology: bem, atomic design, custom components, etc."
-              }
-            ],
-            "competences": [
-              {
-                "name": "Bitbucket",
-                "type": "technology"
-              },
-              {
-                "name": "Sass",
-                "type": "technology"
-              },
-              {
-                "name": "Sketch",
-                "type": "technology"
-              },
-              {
-                "name": "Vue",
-                "type": "technology"
+                "description": "Junto con el CTO y durante un año rediseñamos el flujo de desarrollo de producto. Desde la parte de diseño visual (UI) y la de experiencia (UX) hasta su sistematización e implementación en el flujo de trabajo frontend.\n\nSistematizamos tanto el proceso como los recursos necesarios y formamos al equipo de diseño y front. Consiguiendo una mejora tanto en la calidad final como en los tiempos de diseño y desarrollo.\n\nUn proyecto más que ilusionante donde conseguimos Integrar una cultura de Diseño en una empresa tecnológica."
               }
             ]
           }
@@ -127,22 +150,100 @@
       },
       {
         "organization": {
-          "name": "Add Agency"
+          "name": "Grupo SPRI- The business development agency of the Basque Government"
         },
         "roles": [
           {
-            "name": "Web and Visual Designer",
-            "startDate": "1998-09-01",
-            "finishDate": "2020-06-01",
+            "name": "PM \"Ecommerce Managers\"",
+            "startDate": "2017-01-01",
+            "finishDate": "2019-06-30",
             "challenges": [
               {
-                "description": "In a small advertising agency all kind of works (webs, ecommerce, digital catalogs, brands...) mainly focused in the Industrial companies"
+                "description": "Durante 3 ediciones, con Amaia García, y bajo el paraguas del proyecto Enpresa Digitala de SPRI, organizamos formación dirigida a crear perfiles de Ecommerce Manager para empresas y proyectos de nueva creación. \n\nSe realizó en los Parques tecnológicos de Zamudio (Bizkaia) y San Sebastián a lo largo de 3 años con alrededor de 50 asistentes y más de 15 formadores/as con amplia experiencia en sistemas de pago, logística, negocio, seguridad, analítica…"
               }
-            ],
-            "competences": [
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Escuela Superior Politécnica del Litoral"
+        },
+        "roles": [
+          {
+            "name": "Profesor de Grafismo en la Maestría en Postproducción Digital Audiovisual",
+            "startDate": "2017-01-01",
+            "finishDate": "2017-03-31",
+            "challenges": [
               {
-                "name": "Adobe Creative Suite",
-                "type": "technology"
+                "description": "Durante un mes fui profesor de Diseño audiovisual en una maestría de la Universidad ESPOL (Guayaquil - EcuadorI)\n\nLa mia fue la última asignatura de un proceso de dos años donde dimos forma al proyecto final del curso y vimos la manera de integrar las bases del diseño en un flujo profesional para productos audiovisuales.\n\nUna gran experiencia a nivel personal y profesional de la que guardo grandes recuerdos y buenos compañeros de trabajo.\n\nPARTE CONCEPTUAL\n- Bases del diseño\n- Tendencias\n- Storytelling audiovisual\n- Análisis y procesos\n\nPARTE TÉCNICA\n- Lenguaje audiovisual\n- Adobe Illustrator CC (flujos de trabajo, técnicas de ilustración, tipografía…)\n- Adobe Photoshop CC (retoque no destructivo de imagen y/o video, uso de luts3d en photoshop, técnicas mixtas…)\n\nPARTE PRÁCTICA\n- Realización de proyectos y experimentación con técnicas como el stopmotion, cinemagraphs, hyperlapse, rotoscopia, etc."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "UNED"
+        },
+        "roles": [
+          {
+            "name": "Profesor asociado",
+            "startDate": "2015-06-01",
+            "finishDate": "2016-05-31",
+            "challenges": [
+              {
+                "description": "Profesor junto a Iván Rodríguez Cortés del curso de Experto \"Perito judicial en Artes Gráficas y Serigrafía\". Hablaremos sobre percepción, color, imagen digital, Photoshop forense, etc."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Grupo SPRI- The business development agency of the Basque Government"
+        },
+        "roles": [
+          {
+            "name": "Content Designer KAIXOWORLD!",
+            "startDate": "2012-01-01",
+            "finishDate": "2021-01-01",
+            "challenges": [
+              {
+                "description": "Junto con Iñaki Lakarra organizamos KaixoWorld (www.kaixoworld.com)\nUn Foro de encuentro para profesionales de tecnologías front-end. CSS, HTML5, JAVASCRIPT, CONTENIDOS, UX, DISEÑO DE INTERACCIÓN, METODOLOGÍAS…\n\nOrganización:\nEcommerce manager (3 ediciones)\n\nAdemás en el ámbito de ENPRESA DIGITALA imparto formación\n- \"Buenas prácticas en proyectos de visualización de datos\" con Jorge Aznar\n- \"Tipografía para pantalla\".\n- \"Monetización de productos digitales\". (Álava - 6 octubre de 2015)\n- \"Diseñar para pantalla\" en los parques tecnológicos de Mondragón (Gipuzkoa) y Miñano (Álava)\n- \"Sketchup - 3D para todos\" en Miñano. (Álava)\n- \"La oficina sin papeles\" en el parque tecnológico de Miñano (Álava)"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "LinkedIn"
+        },
+        "roles": [
+          {
+            "name": "Content Creator",
+            "startDate": "2008-08-01",
+            "challenges": [
+              {
+                "description": "Remote and face-to-face work (Graz - Austria) with specialists from different countries for the creation of e-learning projects. From conception to final execution.\nCreation, Design and Development of content for professionals on LinkedIn Europe.\nTopics: New Professions, Opportunities, Creativity.\nTrainer in different areas since 2008. First in video2brain and later as lynda.com (Microsoft) until its current stage as LinkedIn Learning Europe."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Agencia de Publicidad"
+        },
+        "roles": [
+          {
+            "name": "Web Designer",
+            "startDate": "1998-09-01",
+            "finishDate": "2020-06-30",
+            "challenges": [
+              {
+                "description": "Skills: Flash · Joomla! · WordPress · Dreamweaver · QuarkXPress · Figma · SketchUp · Adobe Photoshop · Adobe Illustrator · Adobe InDesign"
               }
             ]
           }
@@ -297,26 +398,6 @@
             "type": "technology"
           }
         ]
-      }
-    ],
-    "softSkills": [
-      {
-        "skill": {
-          "name": "Ability to receive feedback",
-          "type": "practice"
-        }
-      },
-      {
-        "skill": {
-          "name": "Continuous learning",
-          "type": "practice"
-        }
-      },
-      {
-        "skill": {
-          "name": "Resistance to frustration",
-          "type": "practice"
-        }
       }
     ]
   },
