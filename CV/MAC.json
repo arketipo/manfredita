@@ -430,7 +430,9 @@
     },
     "preferences": {
       "preferredRoles": [
-        "Product Design (UI/UX)"
+        "Content Marketing & Design",
+        "Product Design (UI/UX)",
+        "UX Researcher"
       ]
     },
     "status": "searchingActively",
@@ -442,6 +444,12 @@
     }
   },
   "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "Figma",
+        "type": "technology"
+      }
+    ],
     "desiredJobDescription": "I'm looking for a work as product designer working in a multidisciplinary team to create projects to improve people's life (in the area of e-health, employer experience, e-learning…)\n---\n\nACTUALIZACIÓN\nMi trabajo soñado es parecido al que tuve el año pasado. Trabajar en remoto, podría ser a tiempo parcial. En una empresa que cree producto y aportando otra visión. Me encantaría seguir aportando en crear puentes entre desarrollo y diseño.",
     "goodPractices": "In my job it is key to have constant conversations with stakeholders and users, to be able to translate the needs of the company to the product and of course that it helps users in their day to day life in the most efficient, accessible and rewarding way possible.\n\nThrough conceptualisations and documenting is the best way to have a support to share that information with the technical team, of course there are live meetings but always with written information and the necessary data to complete the tasks."
   }
