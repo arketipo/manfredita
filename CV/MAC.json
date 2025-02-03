@@ -433,7 +433,13 @@
         "Product Design (UI/UX)"
       ]
     },
-    "status": "searchingActively"
+    "status": "searchingActively",
+    "requirements": {
+      "contractTypes": [
+        "permanent",
+        "freelance"
+      ]
+    }
   },
   "manfredSpecificData": {
     "desiredJobDescription": "I'm looking for a work as product designer working in a multidisciplinary team to create projects to improve people's life (in the area of e-health, employer experience, e-learning…)\n---\n\nACTUALIZACIÓN\nMi trabajo soñado es parecido al que tuve el año pasado. Trabajar en remoto, podría ser a tiempo parcial. En una empresa que cree producto y aportando otra visión. Me encantaría seguir aportando en crear puentes entre desarrollo y diseño.",
